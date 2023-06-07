@@ -1,1 +1,25 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+html {
+  background-color: #dad7cd;
+  box-sizing: border-box;
+  text-align: center;
+}
+h1, h2, p, footer {
+  color:#3a5a40;
+}
+h1, h2, h3 {
+  font-family: Papyrus;
+}
+p {
+  font-family: 'Architects Daughter';
+  font-size: ;
+}
+h3 {
+  font-size: ;
+}
+header {
+  border: 3px solid #344e41;
+}
+footer {
+  border: 1px solid #344e41;
+}
